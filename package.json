@@ -1,0 +1,20 @@
+{
+  "name": "simple-mqtt-espruino",
+  "version": "1.0.0",
+  "description": "Simple MQTT with Espruino ESP8266",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cuneyt Aliustaoglu",
+  "license": "ISC",
+  "keywords": [
+    "espruino",
+    "esp8266",
+    "mqtt"
+  ],
+  "dependencies": {
+    "mosca": "^2.8.3",
+    "mqtt": "^2.18.3"
+  }
+}
